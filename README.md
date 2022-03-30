@@ -37,11 +37,11 @@ cd Bootstrap-Demo
 
 ## Authors
 
-👤 **Author1**
+👤 **Nii Amanor Djoleto**
 
-- GitHub: [@]()
-- Twitter: [@M]()
-- LinkedIn: []()
+- GitHub: [@ramrod433](https://github.com/ramrod433)
+- Twitter: [@\_Djoleto](https://twitter.com/_djoleto_)
+- LinkedIn: [Nii Amanor Djoleto](https://linkedin.com/in/nii-amanor-djoleto-072b8a14a)
 
 👤 **Author2**
 
