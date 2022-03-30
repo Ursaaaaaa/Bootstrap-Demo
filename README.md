@@ -43,7 +43,7 @@ cd Bootstrap-Demo
 - Twitter: [@M]()
 - LinkedIn: []()
 
-👤 **Author3**
+👤 **Author2**
 
 - GitHub: [@mandelatuks](https://github.com/mandelatuks)
 - Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1_)
