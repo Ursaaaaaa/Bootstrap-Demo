@@ -10,7 +10,7 @@
 - HTML
 - CSS
 - LINTERS
-- Bootstrap
+- BOOTSTRAP 5
 
 ## Live Demo 
 
