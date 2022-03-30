@@ -43,6 +43,10 @@ cd Bootstrap-Demo
 - Twitter: [@M]()
 - LinkedIn: []()
 
+👤 **Author3**
+
+- GitHub: [@mandelatuks](https://github.com/mandelatuks)
+- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1_)
 
 ## 🤝 Contributing
 
@@ -53,12 +57,6 @@ Feel free to check the [issues page](../../issues/).
 ### Contributors
 
 Special thanks to the following contributors:
-
-👤 **Lembani Sakala**
-
-- GitHub: [@mandelatuks](https://github.com/mandelatuks)
-- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1_)
-
 
 ## Show your support
 
