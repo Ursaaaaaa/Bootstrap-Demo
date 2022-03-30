@@ -43,7 +43,7 @@ cd Bootstrap-Demo
 - Twitter: [@\_Djoleto](https://twitter.com/_djoleto_)
 - LinkedIn: [Nii Amanor Djoleto](https://linkedin.com/in/nii-amanor-djoleto-072b8a14a)
 
-👤 **Author2**
+👤 **Mandela**
 
 - GitHub: [@mandelatuks](https://github.com/mandelatuks)
 - Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1_)
